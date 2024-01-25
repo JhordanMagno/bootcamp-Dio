@@ -4,5 +4,5 @@
 
 ## : *Resumo*
 
-Aqui está a parte prática do desafio da criação do meu primeiro repositório, ensinado pela DIO.
-Com foco principal desse Bootcamp em criação de jogos, patrocinado pela empresa Ifood
+Está é a parte prática do desafio da criação do meu primeiro repositório, ensinado pela instituição DIO.
+Com foco principal desse Bootcamp em criação de jogos, patrocinado pela empresa Ifood.
